@@ -4,6 +4,6 @@ applications:
   memory: 512M
   instances: 1
   host: retailrestapi
-  path: ./spring-boot-rest-example-0.3.0.war
+  path: target/spring-boot-rest-example-0.3.0.war
 
 
