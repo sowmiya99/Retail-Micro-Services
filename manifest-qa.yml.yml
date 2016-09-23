@@ -1,0 +1,9 @@
+---
+applications:
+- name: retailrestapi-qa
+  memory: 512M
+  instances: 1
+  host: retailrestapi-qa
+  path: target/spring-boot-rest-example-0.3.0.war
+
+
